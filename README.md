@@ -1,4 +1,4 @@
-# ComputerGraph
+# Computer Graph
 
 ## HW1
 主題: 環境建置
